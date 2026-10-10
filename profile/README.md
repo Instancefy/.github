@@ -5,23 +5,17 @@
 
 # Instancefy Technologies
 
-**Build. Ship. Repeat.**
+**Software and AI product solutions**
 
-From idea to intelligent system — we build software, IoT, and AI solutions for people and businesses.
+From idea to intelligent system — we build software and AI product solutions for people and businesses.
 
 Based in Dhaka, Bangladesh.
 
 ## What we do
 
-- **Software Development** — Full-stack
-- **IoT Solutions** — Connected
-- **ML / AI Systems** — Intelligence
-
-## How we work
-
-1. **Define the engagement** — clear scope, deliverables, and milestones before we build
-2. **Validate the midway release** — a working build to review against agreed outcomes
-3. **Authorize the final phase** — continue when you’re ready; accountability at every stage
+- **Software Development** — A launched web or platform product your users can rely on
+- **AI Product** — Working AI features inside your product — not a slide deck
+- **IoT Solutions** — Connected devices and telemetry that feed into your product
 
 ## Links
 
